@@ -1,0 +1,6 @@
+opencv-python >= 4.4.0
+imutils
+numpy
+argparse
+glob
+skimage
