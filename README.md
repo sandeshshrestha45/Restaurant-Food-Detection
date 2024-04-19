@@ -1,5 +1,5 @@
 # Restaurant-Food-Detection
-Restraurant Food Detection using yolov4 for Food Waste Monitoring
+Restraurant Food Detection using yolov4 for Food Waste Monitoring. Based on YOLOv4 for food detection. Segmentation of the newly added waste. Siamese Network for similarity identification.
 
 
 ## Requirements for Inference: 
