@@ -1,6 +1,15 @@
-opencv-python >= 4.4.0
-imutils
-numpy
-argparse
-glob
-skimage
+opencv-python==4.4.0.46
+imutils==0.5.4
+numpy==1.19.5
+argparse==1.1
+scikit-image==0.16.2
+fastapi==0.67.0
+uvicorn==0.14.0
+python-multipart==0.0.5
+gunicorn==20.1.0
+google-cloud-storage
+PyYAML
+pylint
+psutil
+python-jose[cryptography]
+passlib[bcrypt]
